@@ -18,7 +18,7 @@ git clone https://github.com/kurtispykes/Natural-Language-Processing.git
 ```
 
 ## Table of Contents 
-### 
+### Task & Application Areas
 * [Autocorrect](https://towardsdatascience.com/autocorrect-8c33f3b472a0)
 * [Introduction to Machine Translation](https://towardsdatascience.com/introduction-to-machine-translation-5613f834e0be)
 * [Part Of Speech Tagging for Beginners](https://towardsdatascience.com/part-of-speech-tagging-for-beginners-3a0754b2ebba)
